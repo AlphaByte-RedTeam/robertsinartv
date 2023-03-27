@@ -22,8 +22,5 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.2.0"
 	},
-	"type": "module",
-	"dependencies": {
-		"iconoir": "^6.5.0"
-	}
+	"type": "module"
 }
