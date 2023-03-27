@@ -11,6 +11,7 @@ specifiers:
   '@svelteuidev/prism': ^0.10.0
   autoprefixer: ^10.4.14
   dayjs: ^1.11.7
+  iconoir: ^6.5.0
   postcss: ^8.4.21
   rome: ^11.0.0
   svelte: ^3.54.0
@@ -28,6 +29,7 @@ dependencies:
   '@svelteuidev/preprocessors': 0.10.0_svelte@3.57.0
   '@svelteuidev/prism': 0.10.0_pwqslwr5ontz5dsagxicvpxiya
   dayjs: 1.11.7
+  iconoir: 6.5.0
 
 devDependencies:
   '@sveltejs/adapter-auto': 2.0.0_@sveltejs+kit@1.14.0
@@ -798,6 +800,10 @@ packages:
     dependencies:
       function-bind: 1.1.1
     dev: true
+
+  /iconoir/6.5.0:
+    resolution: {integrity: sha512-/PQF5MegEcxufsnf5XNj8nPeOnt4Sm/3oyt8gncGoOw/dmidOEb/wz4PMjsKGPvNp+t2jziznxbsoBhc8VVcsg==}
+    dev: false
 
   /import-fresh/3.3.0:
     resolution: {integrity: sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw==}
