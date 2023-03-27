@@ -30,6 +30,7 @@
 		"@svelteuidev/motion": "^0.10.0",
 		"@svelteuidev/preprocessors": "^0.10.0",
 		"@svelteuidev/prism": "^0.10.0",
-		"dayjs": "^1.11.7"
+		"dayjs": "^1.11.7",
+		"iconoir": "^6.5.0"
 	}
 }
