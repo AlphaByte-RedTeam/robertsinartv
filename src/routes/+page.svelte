@@ -41,7 +41,7 @@ import background from "$lib/asset/images/tv.png"
     </section>
     <section class="flex flex-col justify-center items-center gap-12 py-8 md:py-0 bg-white">
         <div class="flex justify-center items-center">
-            <h1 class="text-xl md:text-4xl leading-7 md:leading-10 font-bold text-black font-inter">Kenapa Menggunakan Layanan Kami?</h1>
+            <h1 class="text-lg md:text-4xl leading-7 md:leading-10 font-bold text-black font-inter">Kenapa Menggunakan Layanan Kami?</h1>
         </div>
         <div class="flex flex-col md:flex-row justify-center items-center md:gap-40">
             <picture class="py-4 md:py-24 ">
